@@ -1,6 +1,11 @@
 .cabecalho{
-    background: #5A4A9A;
-
+    position: absolute;
+    width: 1440px;
+    height: 190px;
+    left: 0px;
+    top: 0px;
+    
+    background: #D4E1E4;
 }
 .imgcabecalho{
     position: absolute;
