@@ -120,6 +120,8 @@
     position: absolute;
     width: 258px;
     height: 168px;
+    left: 1080;
+    top: 100;
 
     background: url(pcprogramacao.png);
     border-radius: 70px;
