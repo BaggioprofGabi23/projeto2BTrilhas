@@ -94,6 +94,22 @@
     color: #000000;
 }
 
+.corpopa2{
+    position: absolute;
+    width: 889px;
+    height: 364px;
+    left: 69px;
+    top: 280px;
+
+    font-family: 'Didact Gothic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+
+    color: #000000;
+}
+
 .imgbio{
     position: absolute;
     width: 293px;
