@@ -34,3 +34,20 @@
     color: #000000;
 
 }
+
+.item2{
+    
+    position: absolute;
+    width: 180px;
+    height: 41px;
+    left: 1138px;
+    top: 88px;
+
+    font-family: 'Digital Numbers';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 41px;
+
+    color: #000000;
+}
