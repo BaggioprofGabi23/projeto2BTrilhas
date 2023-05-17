@@ -77,3 +77,19 @@
 
     color: #000000;
 }
+
+.corpopa{
+    position: absolute;
+    width: 889px;
+    height: 364px;
+    left: 69px;
+    top: 292px;
+
+    font-family: 'Didact Gothic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+
+    color: #000000;
+}
