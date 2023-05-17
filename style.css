@@ -55,7 +55,7 @@
 .corpo{
     position: absolute;
     width: 1440px;
-    height: 748px;
+    height: auto;
     left: 0px;
     top: 191.5px;
 
