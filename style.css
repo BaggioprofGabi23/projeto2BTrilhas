@@ -51,3 +51,29 @@
 
     color: #000000;
 }
+
+.corpo{
+    position: absolute;
+    width: 1440px;
+    height: 748px;
+    left: 0px;
+    top: 191.5px;
+
+    background: #B8CACE;
+}
+
+.corpoti{
+    position: absolute;
+    width: 330px;
+    height: 58px;
+    left: 324px;
+    top: 221px;
+
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 61px;
+
+    color: #000000;
+}
