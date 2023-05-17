@@ -93,3 +93,45 @@
 
     color: #000000;
 }
+
+.imgbio{
+    position: absolute;
+    width: 293px;
+    height: 160px;
+    left: 1109px;
+    top: 352px;
+
+    background: url(biotec.png);
+    border-radius: 70px;
+}
+
+.imgemp{
+    position: absolute;
+    width: 192px;
+    height: 127px;
+    left: 1172px;
+    top: 207px;
+
+    background: url(empree.png);
+    border-radius: 60px;
+}
+
+.imgpc{
+    position: absolute;
+    width: 258px;
+    height: 168px;
+
+    background: url(pcprogramacao.png);
+    border-radius: 70px;
+}
+
+.imgrob{
+    position: absolute;
+    width: 193px;   
+    height: 158px;
+    left: 933px;
+    top: 467px;
+
+    background: url(robot.png);
+    border-radius: 70px;
+}
