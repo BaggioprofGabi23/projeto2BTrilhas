@@ -17,3 +17,20 @@
     background: url(logosite);
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
+
+.item1{
+    position: absolute;
+    width: 298px;
+    height: 46px;
+    left: 746px;
+    top: 88px;
+
+    font-family: 'Digital Numbers';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 41px;
+
+    color: #000000;
+
+}
