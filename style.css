@@ -264,3 +264,25 @@
     background: url(robot.png);
     border-radius: 70px;
 }
+
+.botao1{
+    position: absolute;
+    width: 209px;
+    height: 80px;
+    left: 149px;
+    top: 780px;
+
+    background: #D4E1E4;
+    border-radius: 95px;
+}
+
+.botao2{
+    position: absolute;
+    width: 215px;
+    height: 80px;
+    left: 467px;
+    top: 780px;
+
+    background: #D4E1E4;
+    border-radius: 95px;
+}
