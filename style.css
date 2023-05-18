@@ -301,9 +301,9 @@
 .rodape{
     position: absolute;
     width: 1440px;
-    height: 84px;
+    height: 75px;
     left: 0px;
-    top: 940px;
+    top: 950px;
 
     background: #D4E1E4;
 }
@@ -313,7 +313,7 @@
     width: 78px;
     height: 20px;
     left: 682px;
-    top: 962px;
+    top: 976px;
 
     font-family: 'DM Sans';
     font-style: normal;
@@ -331,14 +331,14 @@
     width: 100px;
     height: 20px;
     left: 670px;
-    top: 982px;
+    top: 980px;
     
     font-family: 'DM Sans';
     font-style: normal;
     font-weight: 400;
     font-size: 15px;
     line-height: 20px;
-    /* identical to box height */
+    
     
     
     color: #000000;
@@ -349,7 +349,7 @@
     width: 37px;
     height: 20px;
     left: 1218px;
-    top: 993px;
+    top: 1000px;
     
     font-family: 'DM Sans';
     font-style: normal;
