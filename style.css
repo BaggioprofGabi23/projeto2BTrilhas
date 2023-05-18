@@ -1,7 +1,7 @@
 .cabecalho{
     position: absolute;
     width: 1440px;
-    height: 190px;
+    height: 200px;
     left: 0px;
     top: 0px;
     
@@ -61,7 +61,7 @@
     width: 1440px;
     height: 950px;
     left: 0px;
-    top: 191.5px;
+    top: 200px;
 
     background: #B8CACE;
 }
