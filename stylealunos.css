@@ -67,7 +67,7 @@
     width: 330px;
     height: 58px;
     left: 324px;
-    top: 40px;
+    top: 0px;
 
     font-family: 'Inter';
     font-style: italic;
@@ -76,6 +76,10 @@
     line-height: 61px;
 
     color: #000000;
+}
+
+.nomes{
+    
 }
 
 .botao1{
