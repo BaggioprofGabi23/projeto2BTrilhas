@@ -32,6 +32,8 @@
     line-height: 41px;
 
     color: #000000;
+    background: #D4E1E4;
+    border-radius: 95px;
 
 }
 
@@ -50,6 +52,8 @@
     line-height: 41px;
 
     color: #000000;
+    background: #D4E1E4;
+    border-radius: 95px;
 }
 
 .corpo{
@@ -360,3 +364,4 @@
     color: #000000;
    
 }
+
