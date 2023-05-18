@@ -322,6 +322,7 @@
     line-height: 20px;
 
     color: #000000;
+    border-radius: 50px;
 
 }
 
@@ -339,9 +340,8 @@
     font-size: 15px;
     line-height: 20px;
     
-    
-    
     color: #000000;
+    border-radius: 50px;
 }
 
 .rodapeano{
@@ -356,6 +356,7 @@
     font-weight: 400;
     font-size: 15px;
     line-height: 20px;
-
+    
     color: #000000;
+    border-radius: 40px;
 }
