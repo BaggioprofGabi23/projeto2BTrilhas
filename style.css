@@ -278,9 +278,20 @@
 
 .botao2{
     position: absolute;
-    width: 215px;
+    width: 209px;
     height: 80px;
     left: 467px;
+    top: 840px;
+
+    background: #D4E1E4;
+    border-radius: 95px;
+}
+
+.botao3{
+    position: absolute;
+    width: 209px;
+    height: 80px;
+    left: 620px;
     top: 840px;
 
     background: #D4E1E4;
