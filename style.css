@@ -297,3 +297,65 @@
     background: #D4E1E4;
     border-radius: 95px;
 }
+
+.rodape{
+    position: absolute;
+    width: 1440px;
+    height: 84px;
+    left: 0px;
+    top: 940px;
+
+    background: #D4E1E4;
+}
+
+.rodapet1{
+    position: absolute;
+    width: 78px;
+    height: 20px;
+    left: 682px;
+    top: 962px;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+
+    color: #000000;
+
+}
+
+.rodapet2{
+
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    left: 670px;
+    top: 982px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+
+.rodapeano{
+    position: absolute;
+    width: 37px;
+    height: 20px;
+    left: 1218px;
+    top: 993px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+
+    color: #000000;
+}
