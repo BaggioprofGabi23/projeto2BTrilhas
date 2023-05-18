@@ -20,10 +20,10 @@
 
 .item1{
     position: absolute;
-    width: 298px;
-    height: 46px;
+    width: 300px;
+    height: 90px;
     left: 746px;
-    top: 88px;
+    top: 75px;
 
     font-family: 'Digital Numbers';
     font-style: normal;
@@ -40,10 +40,10 @@
 .item2{
     
     position: absolute;
-    width: 180px;
-    height: 41px;
+    width: 300px;
+    height: 90px;
     left: 1138px;
-    top: 88px;
+    top: 75px;
 
     font-family: 'Digital Numbers';
     font-style: normal;
