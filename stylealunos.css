@@ -64,6 +64,7 @@
 
 .corpoti{
     position: absolute;
+    display: block;
     width: 330px;
     height: 58px;
     left: 324px;
@@ -79,7 +80,7 @@
 }
 
 .nomes{
-    
+
 }
 
 .botao1{
