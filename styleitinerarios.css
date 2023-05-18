@@ -42,3 +42,28 @@
     background: #D4E1E4;
     border-radius: 95px;
 }
+.corpo{
+    position: absolute;
+    width: 1440px;
+    height: 950px;
+    left: 0px;
+    top: 200px;
+
+    background: #B8CACE;
+}
+
+.corpoti{
+    position: absolute;
+    width: 330px;
+    height: 58px;
+    left: 324px;
+    top: 90px;
+
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 61px;
+
+    color: #000000;
+}
